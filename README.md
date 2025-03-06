@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **amangshkurxdr@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1kBM6LRh5jtnyc9DR-nZxIl5eU7oFzWLK/view?usp=sharing](https://drive.google.com/file/d/1kBM6LRh5jtnyc9DR-nZxIl5eU7oFzWLK/view?usp=sharing](https://drive.google.com/file/d/1QDHQ2m1DmBZcdATNdNRurJCD9gFEkksJ/view?usp=sharing))
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1kBM6LRh5jtnyc9DR-nZxIl5eU7oFzWLK/view?usp=sharing](https://drive.google.com/file/d/1kBM6LRh5jtnyc9DR-nZxIl5eU7oFzWLK/view?usp=sharing](https://drive.google.com/file/d/1QDHQ2m1DmBZcdATNdNRurJCD9gFEkksJ/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
