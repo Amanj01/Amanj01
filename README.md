@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amanjdev" target="blank"><img src="https://img.shields.io/twitter/follow/amanjdev?logo=twitter&style=for-the-badge" alt="amanjdev" /></a> </p>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Spring-boot**
 
 - 👨‍💻 All of my projects are available at [https://amanj-portfolio.netlify.app/](https://amanj-portfolio.netlify.app/)
 
