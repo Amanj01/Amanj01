@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring-boot**
 
-- 👨‍💻 All of my projects are available at [https://amanj-portfolio.netlify.app/](https://amanj-portfolio.netlify.app/)
+- 👨‍💻 my projects are available at [https://amanj-portfolio.netlify.app/](https://amanj01-portfolio.netlify.app/)
 
 - 💬 Ask me about **react.js, next.js, node.js**
 
