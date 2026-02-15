@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react.js, next.js, node.js**
 
-- 📫 How to reach me **amangshkurxdr@gmail.com**
+- 📫 How to reach me **contact@amanjshkur.dev**
 
 - 📄 Know about my experiences:https://drive.google.com/file/d/1i1rC47Nd8e3fm9UQ5PmfypyqEDEsd_Lu/view?usp=sharing
 
