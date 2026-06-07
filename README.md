@@ -1,5 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/777b3021b0aa890665c2eddb1c8fa5509bb82893db637134f9013de0831e6716/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
-<h1 align="center">Hi 👋, I'm Amanj shkur</h1>
+<h1 align="center">Hi, I'm Amanj shkur</h1>
 <h3 align="center">A passionate frontend developer from Erbil-Kurdistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVqNThjYmFjazkyOWtuYnJjMm5iZ3hmMWlnZnZlZnYybzh2NDE4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
@@ -7,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/amanjdev" target="blank"><img src="https://img.shields.io/twitter/follow/amanjdev?logo=twitter&style=for-the-badge" alt="amanjdev" /></a> </p>
 
-- 👨‍💻 my projects are available at [https://amanj-portfolio.netlify.app/](https://amanj01-portfolio.netlify.app/)
+- my projects are available at [https://www.amanjshkur.dev](https://www.amanjshkur.dev/)
 
-- 💬 Ask me about **react.js, next.js, node.js**
+- Ask me about **react.js, next.js, node.js**
 
-- 📫 How to reach me **contact@amanjshkur.dev**
+- How to reach me **contact@amanjshkur.dev**
 
-- 📄 Know about my experiences:https://drive.google.com/file/d/1i1rC47Nd8e3fm9UQ5PmfypyqEDEsd_Lu/view?usp=sharing
+- Know about my experiences:https://drive.google.com/file/d/1i1rC47Nd8e3fm9UQ5PmfypyqEDEsd_Lu/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
