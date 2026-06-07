@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/amanjdev" target="blank"><img src="https://img.shields.io/twitter/follow/amanjdev?logo=twitter&style=for-the-badge" alt="amanjdev" /></a> </p>
 
-- my projects are available at [https://www.amanjshkur.dev](https://www.amanjshkur.dev/)
+- my portfolio [https://www.amanjshkur.dev](https://www.amanjshkur.dev/)
 
 - Ask me about **react.js, next.js, node.js**
 
